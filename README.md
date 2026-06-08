@@ -1,99 +1,145 @@
-# <h1 align="center">Hi 👋, I'm Bhavya B</h1>
+<div align="center">
 
-<h3 align="center">🚀 AI Engineer • Full Stack Developer • Cloud Enthusiast</h3>
+# 👋 Hey, I'm Bhavya B
 
-<p align="center">
-Building AI-Powered Products, Scalable Software Systems & Cloud Solutions
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&height=70&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer;Cloud+Computing+Explorer;Building+Technology+for+Impact" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=Bhavya-2005&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Bhavya-2005?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Bhavya-2005?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Full+Stack+Developer;Cloud+Computing+Learner;Building+Real-World+Projects;Future+Software+Engineer" />
-</p>
+### 🚀 B.Tech Computer Science Engineering Student
 
-<p align="center">
-<a href="https://github.com/Bhavya-2005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-</p>
+### 🤖 AI • ML • Cloud • Full Stack • DevOps
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Bhavya-2005&label=Profile+Views&color=blue&style=flat"/>
-</p>
+### Building intelligent systems that solve real-world problems
+
+</div>
 
 ---
 
-# 💫 About Me
+# 🧠 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+```yaml
+Name: Bhavya B
 
-🏫 Parul University (2023–2027)
+Education:
+  Degree: B.Tech Computer Science Engineering
+  University: Parul University
+  Graduation: 2027
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Cloud Computing
+  - Full Stack Development
+  - Software Engineering
+  - DevOps
 
-☁️ Exploring Cloud Computing, AWS & DevOps
-
-💻 Full Stack Developer building scalable applications
-
-🚀 Actively preparing for Software Engineering & AI/ML Opportunities
-
-📚 Lifelong learner focused on solving real-world problems through technology
-
----
-
-# 🚀 What I'm Building
-
-* 🤖 AI Safety Application (Samsung Solve For Tomorrow)
-* 📦 Smart Inventory & Warehouse Management System
-* 🐍 Python DBG – AI Powered Python Debugger
-* 💻 Real-Time Collaborative Code Editor
-* 📊 AI Finance Intelligence Platform
-* 📸 Instagram Clone (SwiftUI)
-* 🏎️ Racing Game using Pygame
+Current Focus:
+  - Building AI Products
+  - Solving DSA Problems
+  - Open Source Contributions
+  - Software Engineering Internships
+```
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Engineering Mission
 
-## Languages
+I believe technology should solve meaningful real-world problems.
+
+My goal is to build products that combine:
+
+- Artificial Intelligence
+- Cloud Computing
+- Scalable Software Systems
+- Great User Experience
+
+to create solutions that positively impact people and businesses.
+
+---
+
+# 🔥 Current Focus
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 AI / ML
+
+Computer Vision
+
+Deep Learning
+
+Predictive Systems
+
+</td>
+
+<td width="33%" align="center">
+
+### ☁️ Cloud
+
+AWS
+
+Docker
+
+DevOps
+
+</td>
+
+<td width="33%" align="center">
+
+### 💻 Software
+
+Full Stack
+
+System Design
+
+Scalable Apps
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚡ Tech Stack
+
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,c,mysql"/>
 </p>
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react"/>
 </p>
 
-## Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-## Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
-## Cloud & DevOps
+### Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
 </p>
 
-## AI / ML
+### AI / ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
@@ -101,244 +147,231 @@ Building AI-Powered Products, Scalable Software Systems & Cloud Solutions
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Flagship Projects
 
 <table>
+
 <tr>
+
 <td width="50%">
 
-### 📦 Smart Inventory & Warehouse Management System
+## 🤖 AI Safety Application
 
-Cloud-based inventory platform with analytics dashboard.
+Samsung Solve For Tomorrow Project
 
-**Tech:** React, Node.js, Express.js, PostgreSQL
+### Features
 
-✔ Inventory Tracking
-✔ Warehouse Operations
-✔ Shipment Management
-✔ Analytics Dashboard
+- Hazard Detection
+- AI Monitoring
+- Accessibility Support
+- Real-Time Alerts
+- Computer Vision
+
+### Impact
+
+Making environments safer using AI.
 
 </td>
 
 <td width="50%">
 
-### 🐍 Python DBG
+## 🐍 Python DBG
 
-AI-powered Python debugging assistant.
+AI-Powered Debugging Assistant
 
-**Tech:** Python, AI, Machine Learning
+### Features
 
-✔ Intelligent Debugging
-✔ Error Detection
-✔ Code Suggestions
-✔ Productivity Enhancement
+- Error Analysis
+- Smart Suggestions
+- Debug Automation
+- Productivity Enhancement
+
+### Impact
+
+Helping developers debug code faster.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 🤖 AI Safety Application
+## 📦 Smart Inventory System
 
-Samsung Solve For Tomorrow Project.
+Warehouse & Inventory Management Platform
 
-**Tech:** AI, Computer Vision, ML
+### Features
 
-✔ Hazard Detection
-✔ Accessibility Support
-✔ Real-Time Monitoring
-✔ Safety Alerts
+- Stock Tracking
+- Shipment Management
+- Analytics Dashboard
+- Warehouse Operations
+
+### Impact
+
+Optimizing business operations.
 
 </td>
 
 <td width="50%">
 
-### 💻 Collaborative Code Editor
+## 💻 Collaborative Code Editor
 
-Real-time coding environment.
+Real-Time Coding Platform
 
-**Tech:** React, Node.js, WebSockets
+### Features
 
-✔ Multi-user Editing
-✔ Cursor Sync
-✔ Live Collaboration
-✔ Team Programming
+- Live Collaboration
+- Cursor Sync
+- Team Coding
+- WebSocket Integration
+
+### Impact
+
+Making collaboration seamless.
 
 </td>
+
 </tr>
 
-<tr>
-<td width="50%">
-
-### 📊 AI Finance Intelligence Platform
-
-AI-driven personal finance platform.
-
-**Tech:** React, Node.js, MongoDB
-
-✔ Expense Tracking
-✔ Budget Management
-✔ Forecasting
-✔ AI Insights
-
-</td>
-
-<td width="50%">
-
-### 📸 Instagram Clone
-
-Native iOS application.
-
-**Tech:** SwiftUI, iOS
-
-✔ Authentication
-✔ Feed Interface
-✔ User Profiles
-✔ Modern UI
-
-</td>
-</tr>
 </table>
 
 ---
 
-# 💼 Experience Highlights
+# 🌍 Domains I'm Exploring
 
-| Organization               | Role              | Focus                  |
-| -------------------------- | ----------------- | ---------------------- |
-| AWS Academy                | Cloud Learner     | AWS Cloud              |
-| Samsung Solve For Tomorrow | Participant       | AI Innovation          |
-| Parul University           | Student Developer | Full Stack Development |
-| Open Source                | Contributor       | Software Projects      |
-| Personal Projects          | Developer         | AI & Cloud Solutions   |
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ☁️ Cloud Computing
+- ⚙️ DevOps
+- 📊 Data Engineering
+- 💻 Full Stack Development
+- 📱 Mobile Development
+- 🔐 Cybersecurity
 
 ---
 
 # 📈 GitHub Analytics
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bhavya-2005&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavya-2005&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya-2005&layout=compact&theme=tokyonight"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bhavya-2005&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavya-2005&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya-2005&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
-# 📊 Contribution Graph
+# 📊 Contribution Activity
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-2005&theme=tokyo-night"/>
+
 </p>
 
 ---
 
 # 🏆 Achievements
 
-* 🚀 Samsung Solve For Tomorrow Participant
-* 🤖 Built Multiple AI/ML Projects
-* ☁️ AWS Cloud Learning Path
-* 💻 Developed Full Stack Applications
-* 📚 Continuous Technical Learning
-* 🎯 Active Problem Solver
+- 🚀 Samsung Solve For Tomorrow Participant
+- 🤖 Built Multiple AI-Powered Applications
+- ☁️ AWS Cloud Projects
+- 💻 Full Stack Applications
+- 📈 Real-Time Systems Development
+- 🧠 Continuous Learning Mindset
 
 ---
 
-# 📜 Certifications
-
-* AWS Cloud Foundations
-* Machine Learning Courses
-* Java Programming
-* Python Development
-* Full Stack Development
-
----
-
-# 🌱 Currently Learning
-
-* Machine Learning
-* Generative AI
-* AWS Cloud
-* Docker
-* Kubernetes
-* System Design
-* Data Structures & Algorithms
-* Software Engineering Principles
-
----
-
-# 🗺️ Learning Roadmap
+# 📚 Currently Learning
 
 ```text
-Java                ██████████████░░░░ 85%
-Python              ██████████████░░░░ 85%
-Machine Learning    ███████████░░░░░░░ 70%
-React               ██████████░░░░░░░░ 65%
-AWS                 ████████░░░░░░░░░░ 55%
-System Design       ███████░░░░░░░░░░░ 50%
-DSA                 ██████████░░░░░░░░ 65%
+Machine Learning        █████████████░░░░░░ 75%
+AWS Cloud               ██████████░░░░░░░░░ 60%
+System Design           █████████░░░░░░░░░░ 50%
+Docker                  ████████░░░░░░░░░░░ 45%
+Generative AI           ██████████░░░░░░░░░ 60%
+Data Structures         ██████████████░░░░░ 80%
 ```
 
-# 🤝 Open Source Journey
+---
 
-* Looking for impactful open-source contributions
-* Building public repositories
-* Learning collaborative software development
-* Improving code quality and documentation
+# 🎯 2026 Goals
+
+✅ Software Engineering Internship
+
+✅ AI / ML Internship
+
+✅ Open Source Contributions
+
+✅ 500+ DSA Problems
+
+✅ Production-Level AI Applications
+
+✅ Technical Blog Writing
+
+✅ Hackathon Participation
+
+✅ Strong System Design Foundation
 
 ---
 
-# 🎯 Goals for 2026
+# 💡 Engineering Philosophy
 
-* Secure a Software Engineering Internship
-* Build Production-Level AI Products
-* Contribute to Open Source
-* Strengthen DSA & Problem Solving
-* Participate in National Hackathons
-* Publish Technical Blogs
-* Master Cloud Technologies
+> Great software is not just code.
+>
+> Great software solves real problems, scales efficiently, and creates meaningful impact.
 
 ---
 
-# ⚡ Fun Facts
+# 🤝 Open To
 
-* 💻 I love building software that solves real-world problems.
-* 🤖 AI and Machine Learning are my favorite domains.
-* ☁️ Cloud Computing fascinates me.
-* 🚀 I enjoy transforming ideas into working applications.
-* 📚 I constantly explore new technologies.
-
----
-
-# 💡 Favorite Quote
-
-> "First, solve the problem. Then, write the code."
+- Software Engineering Internships
+- AI / ML Opportunities
+- Open Source Projects
+- Hackathons
+- Technical Collaborations
+- Research Opportunities
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/Bhavya-2005">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
-<a href="https://leetcode.com">
+<a href="#">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
+
 </p>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+---
+
+<div align="center">
+
+### ⭐ Code • Learn • Build • Repeat ⭐
+
+*"The best way to predict the future is to build it."*
+
+</div>
